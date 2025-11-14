@@ -2,7 +2,7 @@
 
 Repositori ini berisi perancangan Desain UI/UX untuk aplikasi "BloodConnect ITERA", sebuah platform mobile yang dirancang untuk merevolusi ekosistem donor darah di Institut Teknologi Sumatera (ITERA).
 
-**Status Proyek:** 🚧 Desain UI/UX (Figma) - Selesai 🚧 | (Untuk Mata Kuliah Desain Interaksi)
+**Status Proyek:** 🚧 Desain UI/UX (Figma) | (Untuk Mata Kuliah Desain Interaksi)
 
 ---
 
