@@ -6,6 +6,16 @@
 
 ![BloodConnect ITERA Logo](https://via.placeholder.com/200x200.png?text=BloodConnect+ITERA)
 
+**<**div**align**=**"**center**"**>
+
+**!**[**BloodConnect ITERA Logo**](**https://via.placeholder.com/200x200.png?text=BloodConnect+ITERA**)
+
+**[](https://figma.com/your-link)
+**[](https://canva.com/your-link)
+\*\*[](https://docs.google.com/your-link)
+
+**</**div**>**
+
 </div>
 
 ---
@@ -23,7 +33,7 @@
 
 ---
 
-## 🚨 Latar Belakang Masalah
+## Latar Belakang Masalah
 
 Berdasarkan observasi dan diskusi dengan mahasiswa ITERA, ditemukan beberapa permasalahan utama:
 
@@ -37,9 +47,11 @@ Berdasarkan observasi dan diskusi dengan mahasiswa ITERA, ditemukan beberapa per
 ## ✨ Fitur
 
 ### 🔍 1. Pencarian Pendonor Darurat
+
 Memungkinkan pencarian cepat dan terverifikasi untuk menemukan pendonor sukarela di lingkungan kampus berdasarkan golongan darah dan rhesus. Fitur ini dirancang khusus untuk situasi darurat yang kritis.
 
 **Fitur Detail:**
+
 - Filter berdasarkan golongan darah (A, B, AB, O)
 - Filter berdasarkan rhesus (+/-)
 - Informasi kontak pendonor yang tersedia
@@ -47,9 +59,11 @@ Memungkinkan pencarian cepat dan terverifikasi untuk menemukan pendonor sukarela
 - Notifikasi push untuk permintaan darurat
 
 ### 📝 2. Pendaftaran Event Online
+
 Mendigitalisasi proses pendaftaran event donor darah. Mahasiswa bisa mendaftar secara online, dan panitia (UKM) mendapatkan dashboard otomatis untuk mengelola pendaftar.
 
 **Fitur Detail:**
+
 - Formulir pendaftaran online yang mudah
 - Jadwal event donor darah kampus
 - Reminder otomatis sebelum event
@@ -57,9 +71,11 @@ Mendigitalisasi proses pendaftaran event donor darah. Mahasiswa bisa mendaftar s
 - Riwayat partisipasi donor darah
 
 ### 📚 3. Pusat Edukasi & Informasi
+
 Menyediakan konten tepercaya (artikel, infografis, dan FAQ) untuk mematahkan mitos dan menjawab keraguan. Fitur ini bertujuan untuk meningkatkan kesadaran dan kenyamanan calon pendonor pemula.
 
 **Fitur Detail:**
+
 - Artikel tentang manfaat donor darah
 - Infografis prosedur donor darah
 - FAQ (Frequently Asked Questions)
@@ -67,9 +83,11 @@ Menyediakan konten tepercaya (artikel, infografis, dan FAQ) untuk mematahkan mit
 - Tips kesehatan sebelum dan sesudah donor
 
 ### 📊 4. Dashboard Penyelenggara
+
 Dashboard khusus untuk panitia/UKM yang menyelenggarakan event donor darah di kampus.
 
 **Fitur Detail:**
+
 - Manajemen pendaftar event
 - Statistik dan laporan donor darah
 - Broadcast notifikasi ke peserta
@@ -77,109 +95,14 @@ Dashboard khusus untuk panitia/UKM yang menyelenggarakan event donor darah di ka
 - Export data pendaftar
 
 ### 👤 5. Profil Pendonor
+
 **Fitur Detail:**
+
 - Informasi pribadi dan golongan darah
 - Riwayat donor darah
 - Achievement badges
 - Sertifikat digital donor darah
 - Pengaturan notifikasi dan privasi
-
----
-
-## 👥 User Persona
-
-### 🎓 Pendonor Potensial (Mahasiswa)
-Mahasiswa yang tertarik untuk mendonor darah namun masih memerlukan informasi dan kemudahan akses untuk memulai.
-
-**Kebutuhan:**
-- Informasi yang jelas tentang donor darah
-- Proses pendaftaran yang mudah
-- Jaminan keamanan dan kesehatan
-
-### 🏥 Pencari & Penyelenggara (Panitia/UKM)
-Pihak yang membutuhkan pendonor darah untuk keperluan darurat atau menyelenggarakan event donor darah di kampus.
-
-**Kebutuhan:**
-- Akses cepat ke database pendonor
-- Tools manajemen event yang efisien
-- Sistem notifikasi yang efektif
-
-### 🌟 Pendonor Rutin (The Veteran Donor)
-Pendonor berpengalaman yang aktif dan rutin melakukan donor darah.
-
-**Kebutuhan:**
-- Tracking riwayat donor yang lengkap
-- Reminder jadwal donor berikutnya
-- Recognition atas kontribusi mereka
-
----
-
-## 🔬 Metodologi Desain
-
-Proyek ini menggunakan **Double Diamond Design Process** yang terdiri dari 4 tahapan:
-
-### 1️⃣ Discover (Eksplorasi Masalah)
-Melakukan riset pengguna melalui observasi, wawancara, dan survei untuk mengidentifikasi masalah utama yang dihadapi pendonor darah di kampus ITERA.
-
-**Aktivitas:**
-- Wawancara dengan mahasiswa dan panitia UKM
-- Survei kebiasaan donor darah
-- Observasi proses donor darah di kampus
-- Analisis kompetitor
-
-### 2️⃣ Define (Definisi Fokus Masalah)
-Menyaring temuan penting dan menetapkan tujuan aplikasi berdasarkan analisis data yang dikumpulkan.
-
-**Aktivitas:**
-- Sintesis data riset
-- Pembuatan user persona
-- Penetapan problem statement
-- Penentuan prioritas fitur
-
-### 3️⃣ Develop (Pengembangan Solusi)
-Merancang solusi melalui pembuatan wireframes, prototipe, dan iterasi desain yang intuitif dan mudah diakses.
-
-**Aktivitas:**
-- Low-fidelity wireframes
-- High-fidelity mockups
-- Interactive prototype
-- Design system development
-
-### 4️⃣ Deliver (Implementasi & Pengujian)
-Mengimplementasikan aplikasi dengan pengujian usability dan evaluasi untuk memastikan kesesuaian dengan kebutuhan pengguna.
-
-**Aktivitas:**
-- Usability testing
-- User feedback collection
-- Iterasi berdasarkan feedback
-- Final implementation
-
----
-
-## 🧪 Metode Pengujian
-
-Aplikasi ini diuji menggunakan beberapa metode evaluasi:
-
-### 📊 SUS (System Usability Scale)
-Mengukur kegunaan sistem secara keseluruhan dengan 10 pertanyaan standar untuk mendapatkan skor usability 0-100.
-
-### 🎯 UEQ (User Experience Questionnaire)
-Menilai pengalaman pengguna dari 6 aspek:
-- Daya tarik (Attractiveness)
-- Kejelasan (Perspicuity)
-- Efisiensi (Efficiency)
-- Ketergantungan (Dependability)
-- Stimulasi (Stimulation)
-- Kebaruan (Novelty)
-
-### ✅ Task-based Usability Testing
-Menilai performa pengguna dalam menyelesaikan tugas spesifik:
-- Waktu penyelesaian tugas
-- Error rate
-- Success rate
-- User satisfaction
-
----
 
 ## 👨‍💻 Tim Pengembang
 
@@ -223,6 +146,7 @@ Menilai performa pengguna dalam menyelesaikan tugas spesifik:
 </table>
 
 ### 📚 Pembimbing
+
 - **Dosen Pengampu:** Amirul Iqbal, S.Kom., M.Eng.
 - **Asisten Praktikum:** Fauzi Azizi (122140106)
 
@@ -230,111 +154,39 @@ Menilai performa pengguna dalam menyelesaikan tugas spesifik:
 
 ## 🏫 Institusi
 
-**Program Studi Teknik Informatika**  
-Fakultas Teknologi Industri  
-Institut Teknologi Sumatera  
-November 2024
+**Program Studi Teknik Informatika**
+Fakultas Teknologi Industri
+Institut Teknologi Sumatera
+November 2025
 
 ---
 
 ## 📸 Demo
 
 ### Screenshots
-*Coming Soon - Screenshots aplikasi akan ditambahkan*
+
+_Coming Soon - Screenshots aplikasi akan ditambahkan_
 
 ### Wireframes
-*Coming Soon - Wireframes akan ditambahkan*
+
+_Coming Soon - Wireframes akan ditambahkan_
 
 ### Prototype
+
 Akses prototype interaktif: [Link Figma/Adobe XD]
 
 ### User Flow
-*Coming Soon - Diagram user flow akan ditambahkan*
+
+_Coming Soon - Diagram user flow akan ditambahkan_
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Design & Prototyping
+
 - **Figma** - UI/UX Design & Prototyping
 - **Adobe Illustrator** - Icon & Asset Design
-- **Miro** - User Journey & Flow Mapping
-
-### Development (Coming Soon)
-- **Frontend:** React Native / Flutter
-- **Backend:** Node.js / Express
-- **Database:** MongoDB / PostgreSQL
-- **Cloud:** Firebase / AWS
-
----
-
-
-## 📖 Dokumentasi
-
-Untuk dokumentasi lengkap, silakan lihat:
-
-- 📄 [Laporan Akhir](./docs/Laporan_Akhir_BloodConnect_ITERA.pdf)
-- 🔍 [User Research](./docs/user-research.md)
-- 🎨 [Design System](./docs/design-system.md)
-- 📡 [API Documentation](./docs/api-docs.md)
-- 🧪 [Testing Results](./docs/testing-results.md)
-
----
-
-
-## 🚀 Roadmap
-
-### ✅ Phase 1 - Research & Design (Completed)
-- [x] User research dan persona development
-- [x] Wireframing
-- [x] High-fidelity mockup
-- [x] Interactive prototype
-
-### 🔄 Phase 2 - Development (In Progress)
-- [ ] Setup project struktur
-- [ ] Implementasi authentication
-- [ ] Implementasi fitur pencarian pendonor
-- [ ] Implementasi pendaftaran event
-- [ ] Implementasi pusat edukasi
-
-### 📅 Phase 3 - Testing & Launch (Planned)
-- [ ] User acceptance testing
-- [ ] Bug fixing & optimization
-- [ ] Soft launch di kampus ITERA
-- [ ] Gathering feedback & iteration
-
-### 🎯 Phase 4 - Enhancement (Future)
-- [ ] AI-powered donor matching
-- [ ] Integration dengan PMI
-- [ ] Expansion ke kampus lain
-- [ ] Gamification features
-
----
-
-
-
-
-
-## 🙏 Acknowledgments
-
-Terima kasih kepada:
-- Dosen pengampu dan asisten praktikum atas bimbingannya
-- Responden survei dan testing yang telah membantu
-- Komunitas open source atas tools dan resources
-- PMI (Palang Merah Indonesia) atas data dan informasi
-
----
-
-#
-
-## 📊 Project Status
-
-![GitHub last commit](https://img.shields.io/github/last-commit/username/bloodconnect-itera)
-![GitHub issues](https://img.shields.io/github/issues/username/bloodconnect-itera)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/username/bloodconnect-itera)
-![GitHub stars](https://img.shields.io/github/stars/username/bloodconnect-itera)
-
----
 
 <div align="center">
 
@@ -346,6 +198,6 @@ Terima kasih kepada:
 
 ---
 
-*"Setetes darah Anda, sejuta harapan bagi mereka"*
+_"Setetes darah Anda, sejuta harapan bagi mereka"_
 
 </div>
